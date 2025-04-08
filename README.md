@@ -17,7 +17,7 @@
 - [Giấy phép](#giấy-phép)
 - [Liên hệ](#liên-hệ)
 
-## Mô tả
+## Mô tả dự án
 
 Chào mừng đến với **Tên Dự Án Của Bạn**! Đây là một dự án [mô tả ngắn gọn về dự án, ví dụ: "ứng dụng quản lý công việc đơn giản"]. Dự án được xây dựng để [mục đích chính của dự án].
 1. Mô hình
