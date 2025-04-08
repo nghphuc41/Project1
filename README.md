@@ -5,7 +5,8 @@
 
 ## Mục lục
 
-- [Giới thiệu](#giới-thiệu)
+- [Mô tả](#mô-tả)
+  - [Mô hình](#yêu-cầu)
 - [Tính năng](#tính-năng)
 - [Cài đặt](#cài-đặt)
   - [Yêu cầu](#yêu-cầu)
@@ -16,11 +17,18 @@
 - [Giấy phép](#giấy-phép)
 - [Liên hệ](#liên-hệ)
 
-## Giới thiệu
+## Mô tả
 
 Chào mừng đến với **Tên Dự Án Của Bạn**! Đây là một dự án [mô tả ngắn gọn về dự án, ví dụ: "ứng dụng quản lý công việc đơn giản"]. Dự án được xây dựng để [mục đích chính của dự án].
+1. Mô hình
+abcxyz
 ![Banner](https://raw.githubusercontent.com/nghphuc41/abc/main/image.png)
-![Giao diện demo](https://raw.githubusercontent.com/nghphuc41/abc/main/demo.gif)
+2. Mô hình
+   a
+4. Dịch vụ
+   adsa
+6. Role
+adsad
 
 ## Tính năng
 
