@@ -5,12 +5,14 @@
 
 ## Mục lục
 
-- [Mô tả](#mô-tả)
-  - [Mô hình](#yêu-cầu)
-- [Tính năng](#tính-năng)
-- [Cài đặt](#cài-đặt)
-  - [Yêu cầu](#yêu-cầu)
-  - [Hướng dẫn từng bước](#hướng-dẫn-từng-bước)
+1. [Cấu hình](#cấu-hình)  
+   1.1 [Cấu hình hệ thống](#cấu-hình-hệ-thống)  
+   1.1.1 [Thông số mặc định](#thông-số-mặc-định)  
+   1.1.2 [Tùy chỉnh nâng cao](#tùy-chỉnh-nâng-cao)
+2. [Cấu hình](#cấu-hình)  
+   2.1 [Cấu hình hệ thống](#cấu-hình-hệ-thống)  
+   2.1.1 [Thông số mặc định](#thông-số-mặc-định)  
+   2.1.2 [Tùy chỉnh nâng cao](#tùy-chỉnh-nâng-cao)  
 3. [Cấu hình](#cấu-hình)  
    3.1 [Cấu hình hệ thống](#cấu-hình-hệ-thống)  
    3.1.1 [Thông số mặc định](#thông-số-mặc-định)  
