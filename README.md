@@ -22,7 +22,7 @@
 Chào mừng đến với **Tên Dự Án Của Bạn**! Đây là một dự án [mô tả ngắn gọn về dự án, ví dụ: "ứng dụng quản lý công việc đơn giản"]. Dự án được xây dựng để [mục đích chính của dự án].
 1. Mô hình
 abcxyz
-![Banner](https://raw.githubusercontent.com/nghphuc41/abc/main/image.png)
+![Banner](https://raw.githubusercontent.com/nghphuc41/abc/main/image/image1.png)
 2. Mô hình
    a
 4. Dịch vụ
