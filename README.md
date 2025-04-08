@@ -11,11 +11,12 @@
 - [Cài đặt](#cài-đặt)
   - [Yêu cầu](#yêu-cầu)
   - [Hướng dẫn từng bước](#hướng-dẫn-từng-bước)
-- [Cách sử dụng](#cách-sử-dụng)
-- [Hình ảnh minh họa](#hình-ảnh-minh-họa)
-- [Đóng góp](#đóng-góp)
-- [Giấy phép](#giấy-phép)
-- [Liên hệ](#liên-hệ)
+3. [Cấu hình](#cấu-hình)  
+   3.1 [Cấu hình hệ thống](#cấu-hình-hệ-thống)  
+   3.1.1 [Thông số mặc định](#thông-số-mặc-định)  
+   3.1.2 [Tùy chỉnh nâng cao](#tùy-chỉnh-nâng-cao)  
+4. [Sử dụng](#sử-dụng)  
+5. [Giấy phép](#giấy-phép)
 
 ## Mô tả dự án
 
