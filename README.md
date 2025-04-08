@@ -25,9 +25,7 @@ Chào mừng đến với **Tên Dự Án Của Bạn**! Đây là một dự á
 ## Tính năng
 
 - ✨ Tính năng 1: [Mô tả ngắn gọn]
-- ![Banner](https://raw.githubusercontent.com/nghphuc41/abc/main/image.png)
 - 🚀 Tính năng 2: [Mô tả ngắn gọn]
-- ![Banner](https://raw.githubusercontent.com/nghphuc41/abc/main/image.png)
 - 🛠️ Tính năng 3: [Mô tả ngắn gọn]
 
 ## Cài đặt
