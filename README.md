@@ -1,6 +1,4 @@
 # Project Personal
-![Banner](https://raw.githubusercontent.com/nghphuc41/abc/main/image.png)
-
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub issues](https://img.shields.io/github/issues/nghphuc41/abc)](https://github.com/nghphuc41/abc/issues)
 [![GitHub stars](https://img.shields.io/github/stars/nghphuc41/abc)](https://github.com/nghphuc41/abc/stargazers)
@@ -21,7 +19,7 @@
 ## Giới thiệu
 
 Chào mừng đến với **Tên Dự Án Của Bạn**! Đây là một dự án [mô tả ngắn gọn về dự án, ví dụ: "ứng dụng quản lý công việc đơn giản"]. Dự án được xây dựng để [mục đích chính của dự án].
-
+![Banner](https://raw.githubusercontent.com/nghphuc41/abc/main/image.png)
 ![Giao diện demo](https://raw.githubusercontent.com/nghphuc41/abc/main/demo.gif)
 
 ## Tính năng
