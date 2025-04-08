@@ -1,6 +1,4 @@
 # Project Personal
-# Tên Dự Án Của Bạn
-
 ![Banner](https://raw.githubusercontent.com/nghphuc41/abc/main/image.png)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
