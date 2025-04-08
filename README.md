@@ -7,18 +7,20 @@
 
 1. [Mô tả dự án](#mô-tả-dự-án)  
    1.1 [Cấu hình hệ thống](#cấu-hình-hệ-thống)  
-   1.1.1 [Thông số mặc định](#thông-số-mặc-định)  
-   1.1.2 [Tùy chỉnh nâng cao](#tùy-chỉnh-nâng-cao)
-2. [Cấu hình](#cấu-hình)  
+   1.2 [Thông số mặc định](#thông-số-mặc-định)  
+   1.3 [Tùy chỉnh nâng cao](#tùy-chỉnh-nâng-cao)  
+   1.4 [Thông số mặc định](#thông-số-mặc-định)  
+3. [Cấu hình](#cấu-hình)  
    2.1 [Cấu hình hệ thống](#cấu-hình-hệ-thống)  
    2.1.1 [Thông số mặc định](#thông-số-mặc-định)  
    2.1.2 [Tùy chỉnh nâng cao](#tùy-chỉnh-nâng-cao)  
-3. [Cấu hình](#cấu-hình)  
+4. [Cấu hình](#cấu-hình)  
    3.1 [Cấu hình hệ thống](#cấu-hình-hệ-thống)  
    3.1.1 [Thông số mặc định](#thông-số-mặc-định)  
    3.1.2 [Tùy chỉnh nâng cao](#tùy-chỉnh-nâng-cao)  
-4. [Sử dụng](#sử-dụng)  
 5. [Giấy phép](#giấy-phép)
+6. [Giấy phép](#giấy-phép)
+7. [Giấy phép](#giấy-phép)
 
 ## Mô tả dự án
 
