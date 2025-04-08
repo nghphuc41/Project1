@@ -24,11 +24,8 @@ Chào mừng đến với **Tên Dự Án Của Bạn**! Đây là một dự á
 abcxyz
 ![Banner](https://raw.githubusercontent.com/nghphuc41/abc/main/image/image1.png)
 2. Mô hình
-   a
 4. Dịch vụ
-   adsa
 6. Role
-adsad
 
 ## Tính năng
 
