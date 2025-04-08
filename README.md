@@ -1,6 +1,6 @@
 # Tên Dự Án Của Bạn
 
-![Banner](https://raw.githubusercontent.com/nghphuc41/abc/main/banner.png)
+![Banner](https://raw.githubusercontent.com/nghphuc41/abc/main/image.png)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub issues](https://img.shields.io/github/issues/nghphuc41/abc)](https://github.com/nghphuc41/abc/issues)
