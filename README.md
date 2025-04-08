@@ -5,7 +5,7 @@
 
 ## Mục lục
 
-1. [Cấu hình](#cấu-hình)  
+1. [Mô tả dự án](#mô-tả-dự-án)  
    1.1 [Cấu hình hệ thống](#cấu-hình-hệ-thống)  
    1.1.1 [Thông số mặc định](#thông-số-mặc-định)  
    1.1.2 [Tùy chỉnh nâng cao](#tùy-chỉnh-nâng-cao)
