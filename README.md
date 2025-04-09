@@ -28,7 +28,8 @@ Chào mừng đến với **Tên Dự Án Của Bạn**! Đây là một dự á
 1. Môi trường
 ![Banner](https://raw.githubusercontent.com/nghphuc41/abc/main/image/Environment.PNG)
 3. Mô hình
-4. Dịch vụ
+![Banner](https://raw.githubusercontent.com/nghphuc41/abc/main/image/Infrastructure.PNG)
+5. Dịch vụ
 6. Role
 
 ## Tính năng
