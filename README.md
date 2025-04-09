@@ -27,10 +27,14 @@
 Chào mừng đến với **Tên Dự Án Của Bạn**! Đây là một dự án [mô tả ngắn gọn về dự án, ví dụ: "ứng dụng quản lý công việc đơn giản"]. Dự án được xây dựng để [mục đích chính của dự án].
 1. Môi trường
 ![Banner](https://raw.githubusercontent.com/nghphuc41/abc/main/image/Environment.PNG)
-3. Mô hình
+
+2. Mô hình
 ![Banner](https://raw.githubusercontent.com/nghphuc41/abc/main/image/Infrastructure.PNG)
-5. Dịch vụ
-6. Role
+
+3. Dịch vụ
+![Banner](https://raw.githubusercontent.com/nghphuc41/abc/main/image/Service.PNG)
+
+4. Role
 
 ## Tính năng
 
