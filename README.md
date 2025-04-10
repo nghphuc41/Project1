@@ -6,10 +6,10 @@
 ## Mục lục
 
 1. [Mô tả dự án](#mô-tả-dự-án)  
-   1.1 [Cấu hình hệ thống](#cấu-hình-hệ-thống)  
-   1.2 [Thông số mặc định](#thông-số-mặc-định)  
-   1.3 [Tùy chỉnh nâng cao](#tùy-chỉnh-nâng-cao)  
-   1.4 [Thông số mặc định](#thông-số-mặc-định)  
+   1.1 [Môi trường](#môi-trường)  
+   1.2 [Mô hình](#mô-hình)  
+   1.3 [Dịch vụ](#dịch-vụ)  
+   1.4 [Vai trò](#vai-trò)  
 3. [Cấu hình](#cấu-hình)  
    2.1 [Cấu hình hệ thống](#cấu-hình-hệ-thống)  
    2.1.1 [Thông số mặc định](#thông-số-mặc-định)  
@@ -22,19 +22,19 @@
 6. [Giấy phép](#giấy-phép)
 7. [Giấy phép](#giấy-phép)
 
-## Mô tả dự án
+## 1. Mô tả dự án
 
 Dự án xây dựng và vận hành một hệ thống hạ tầng CNTT kết hợp giữa Cloud (Azure, M365, Cloudflare) và On-premises, mục tiêu là phục vụ nhiều mục đích như phát triển, thử nghiệm, triển khai sản phẩm và phục vụ người dùng nội bộ.  
-1. Môi trường
+1.1 Môi trường
 ![Banner](https://raw.githubusercontent.com/nghphuc41/abc/main/image/Environment.PNG)
 
-2. Mô hình
+1.2. Mô hình
 ![Banner](https://raw.githubusercontent.com/nghphuc41/abc/main/image/Infrastructure.PNG)
 
-3. Dịch vụ
+1.3. Dịch vụ
 ![Banner](https://raw.githubusercontent.com/nghphuc41/abc/main/image/Service.PNG)
 
-4. Role
+1.4. Vai trò
 
 ## Tính năng
 
