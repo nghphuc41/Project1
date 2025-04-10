@@ -24,7 +24,7 @@
 
 ## Mô tả dự án
 
-Chào mừng đến với **Tên Dự Án Của Bạn**! Đây là một dự án [mô tả ngắn gọn về dự án, ví dụ: "ứng dụng quản lý công việc đơn giản"]. Dự án được xây dựng để [mục đích chính của dự án].
+Dự án xây dựng và vận hành một hệ thống hạ tầng CNTT kết hợp giữa Cloud (Azure, M365, Cloudflare) và On-premises, mục tiêu là phục vụ nhiều mục đích như phát triển, thử nghiệm, triển khai sản phẩm và phục vụ người dùng nội bộ.  
 1. Môi trường
 ![Banner](https://raw.githubusercontent.com/nghphuc41/abc/main/image/Environment.PNG)
 
