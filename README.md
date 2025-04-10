@@ -30,6 +30,7 @@
 ## 1. Mô tả dự án
 
 Dự án xây dựng và vận hành một hệ thống hạ tầng CNTT kết hợp giữa Cloud (Azure, M365, Cloudflare) và On-premises, mục tiêu là phục vụ nhiều mục đích như phát triển, thử nghiệm, triển khai sản phẩm và phục vụ người dùng nội bộ.  
+
 1.1 Môi trường
 ![Banner](https://raw.githubusercontent.com/nghphuc41/abc/main/image/Environment.PNG)
 
