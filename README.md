@@ -9,11 +9,11 @@
    1.1 [Môi trường](#môi-trường)  
    1.2 [Mô hình](#mô-hình)  
    1.3 [Dịch vụ](#dịch-vụ)  
-   1.4 [Vai trò](#vai-trò)  
-2. [On-premise](#cấu-hình)  
+   1.4 [Vai trò](#vai-trò)
+2. [Yêu cầu](#cấu-hình)  
    2.1 [Cấu hình hệ thống](#cấu-hình-hệ-thống)  
-   2.1.1 [Thông số mặc định](#thông-số-mặc-định)  
-   2.1.2 [Tùy chỉnh nâng cao](#tùy-chỉnh-nâng-cao)  
+   2.1 [Thông số mặc định](#thông-số-mặc-định)  
+   2.1 [Tùy chỉnh nâng cao](#tùy-chỉnh-nâng-cao)  
 3. [M365](#cấu-hình)  
    3.1 [Cấu hình hệ thống](#cấu-hình-hệ-thống)  
    3.2 [Thông số mặc định](#thông-số-mặc-định)  
@@ -21,7 +21,11 @@
 4. [Azure](#giấy-phép)  
    4.1 [Cấu hình hệ thống](#cấu-hình-hệ-thống)  
    4.2 [Thông số mặc định](#thông-số-mặc-định)  
-   4.3 [Tùy chỉnh nâng cao](#tùy-chỉnh-nâng-cao)  
+   4.3 [Tùy chỉnh nâng cao](#tùy-chỉnh-nâng-cao)
+5. [On-premise](#cấu-hình)  
+   5.1 [Cấu hình hệ thống](#cấu-hình-hệ-thống)  
+   5.2 [Thông số mặc định](#thông-số-mặc-định)  
+   5.3 [Tùy chỉnh nâng cao](#tùy-chỉnh-nâng-cao)  
 
 ## 1. Mô tả dự án
 
